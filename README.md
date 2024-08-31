@@ -1,5 +1,5 @@
 🛠️ Desarrolladora en formación | Explorando el mundo del software
-### Hola, soy *Carol Marcela Ramírez* 👋, una entusiasta del desarrollo de software en plena fase de aprendizaje. Estoy comenzando mi viaje en este fascinante campo, explorando lenguajes y tecnologías como Python y Angular. Actualmente, estoy enfocado en mejorar mis habilidades y construir proyectos prácticos que me ayuden a crecer como desarrollador.
+### Hola, soy *Carol Marcela Ramírez* 👋, una entusiasta del desarrollo de software en plena fase de aprendizaje. Estoy comenzando mi viaje en este fascinante campo, explorando lenguajes y tecnologías como Python, Java, Javascript y Angular. Actualmente, estoy enfocado en mejorar mis habilidades y construir proyectos prácticos que me ayuden a crecer como desarrollador.
 
 **¡Bienvenido a mi perfil!**
 
@@ -20,7 +20,9 @@
 - Python ( https://github.com/CarolMarcela/CRUD_PYTHON.git ): Proyectos y ejercicios del curso de Python que estoy tomando.
 - Proyecto en Angular ( https://github.com/CarolMarcela/AngularII_Final.git ): Un pequeño proyecto en Angular para practicar lo que he aprendido.
 - Inteligencia Artificial ( https://github.com/CarolMarcela/Entrega_Inteligencia_Artificial.git )
-- Reactjs (https://github.com/CarolMarcela/REACTJS_I.git)
+- Reactjs ( https://github.com/CarolMarcela/REACTJS_I.git )
+- Java ( https://github.com/CarolMarcela/JAVA_II_FINAL.git )
+- Javascrpt ( https://github.com/CarolMarcela/Trabajo.JavascripII.git )
 
 ### **¿Qué estoy aprendiendo?**
 Actualmente estoy aprendiendo sobre desarrollo web y trabajando en pequeños proyectos para reforzar mis conocimientos.
