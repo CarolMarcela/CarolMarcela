@@ -1,5 +1,7 @@
-Hola, soy *Carol Marcela Ramírez* 👋
+### Hola, soy *Carol Marcela Ramírez* 👋
 Estoy aprendiendo desarrollo de software y explorando tecnologías como Python, Javascript y Angular. Mi objetivo es mejorar mis habilidades y crear proyectos interesantes.
+
+
 
 **¡Bienvenido a mi perfil!**
 
