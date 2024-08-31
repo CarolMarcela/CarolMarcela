@@ -1,6 +1,17 @@
-### Hola, soy *Carol Marcela Ramírez* 👋
-Estoy aprendiendo desarrollo de software y explorando tecnologías como Python, Javascript y Angular. Mi objetivo es mejorar mis habilidades y crear proyectos interesantes.
+🛠️ Desarrolladora en formación | Explorando el mundo del software
+### Hola, soy *Carol Marcela Ramírez* 👋, un entusiasta del desarrollo de software en plena fase de aprendizaje. Estoy comenzando mi viaje en este fascinante campo, explorando lenguajes y tecnologías como Python y Angular. Actualmente, estoy enfocado en mejorar mis habilidades y construir proyectos prácticos que me ayuden a crecer como desarrollador.
 
+### **Objetivos:**
+
+- 🤔 Dominar las bases del desarrollo web y la programación.
+- 💬 Contribuir a proyectos de código abierto.
+- 😄 Desarrollar aplicaciones que puedan resolver problemas reales.
+
+### **Hobbies:**
+
+- Aprender nuevas tecnologías.
+- Resolver desafíos de programación.
+- Participar en la comunidad de desarrolladores.
 
 
 **¡Bienvenido a mi perfil!**
@@ -12,11 +23,6 @@ Estoy aprendiendo desarrollo de software y explorando tecnologías como Python, 
 
 ### **¿Qué estoy aprendiendo?**
 Actualmente estoy aprendiendo sobre desarrollo web con Angular y trabajando en pequeños proyectos para reforzar mis conocimientos.
-
-### **Mis objetivos**
-- 🤔 Completar un curso de desarrollo de software.
-- 💬 Crea una aplicación web completa desde cero.
-- 😄 Contribuir a un proyecto de código abierto.
 
 
 
