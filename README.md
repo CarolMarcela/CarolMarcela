@@ -12,9 +12,11 @@ Estoy aprendiendo desarrollo de software y explorando tecnologías como Python, 
 Actualmente estoy aprendiendo sobre desarrollo web con Angular y trabajando en pequeños proyectos para reforzar mis conocimientos.
 
 ### **Mis objetivos**
-🤔- Completar un curso de desarrollo de software.
-💬- Crea una aplicación web completa desde cero.
-😄- Contribuir a un proyecto de código abierto.
+- 🤔 Completar un curso de desarrollo de software.
+- 💬 Crea una aplicación web completa desde cero.
+- 😄 Contribuir a un proyecto de código abierto.
+
+
 
 
 
